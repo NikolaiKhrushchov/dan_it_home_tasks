@@ -6,21 +6,17 @@ public class task6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-
-        System.out.println("Яка програма вас цікавить? (Введіть: IntelliJ IDEA, Git, Java)");
+        System.out.println("What program are you interested in? (Enter: IntelliJ IDEA, Git, Java)");
         String programName = scanner.nextLine().trim();
 
-
-        System.out.println("Яку операційну систему ви використовуєте? (Введіть: Linux, MacOS, Windows)");
+        System.out.println("What operating system are you using? (Enter: Linux, MacOS, Windows)");
         String systemName = scanner.nextLine().trim();
 
-
-        String downloadLink = "";
-
+        String downloadLink;
 
         switch (programName.toLowerCase()) {
             case "intellij idea":
-                switch (systemName.toLowerCase()) {
+                switch (systemName) {
                     case "linux":
                         downloadLink = "www.linux.com";
                         break;
@@ -31,7 +27,7 @@ public class task6 {
                         downloadLink = "www.windows.com";
                         break;
                     default:
-                        System.out.println("Вибраної ОС немає: " + systemName);
+                        System.out.println("No OS selected: "  + systemName);
                         return;
                 }
                 break;
@@ -47,7 +43,7 @@ public class task6 {
                         downloadLink = "https://download/windows";
                         break;
                     default:
-                        System.out.println("Вибраної ОС немає: " + systemName);
+                        System.out.println("No OS selected: " + systemName);
                         return;
                 }
                 break;
@@ -63,16 +59,16 @@ public class task6 {
                         downloadLink = "www.oracle.com";
                         break;
                     default:
-                        System.out.println("Вибраної ОС немає: " + systemName);
+                        System.out.println("No OS selected: " + systemName);
                         return;
                 }
                 break;
             default:
-                System.out.println("Програми з такою назвою не існує: " + programName);
+                System.out.println("There is no program with that name: " + programName);
                 return;
         }
 
-        System.out.println("Посилання для завантаження " + programName + " для " + systemName + ":");
+        System.out.println("Download link " + programName + " for " + systemName + ":");
         System.out.println(downloadLink);
     }
 }

@@ -5,7 +5,7 @@ import java.io.ByteArrayInputStream;
 
 public class testPerfectly {
     public static void main(String[] args) {
-        String newString = "Я тестую чудово. Що ще потрібно?";
+        String newString = "I'm testing great. What else do I need?";
         System.out.println(newString);
 
         Scanner scanner = new Scanner(new ByteArrayInputStream(newString.getBytes()));

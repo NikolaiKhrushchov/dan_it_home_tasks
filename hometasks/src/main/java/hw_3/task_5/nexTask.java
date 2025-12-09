@@ -7,13 +7,13 @@ public class nexTask {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Введіть перше число: ");
+        System.out.println("Enter the first number: ");
         int num1 = scanner.nextInt();
 
-        System.out.println("Введіть оператор (- , + , % , / , *): ");
+        System.out.println("Enter the operator (- , + , % , / , *): ");
         char operator = scanner.next().charAt(0);
 
-        System.out.println("Введіть друге число: ");
+        System.out.println("Enter the second number: ");
         int num2 = scanner.nextInt();
 
         int result = 0;
