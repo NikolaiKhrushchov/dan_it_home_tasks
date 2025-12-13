@@ -24,7 +24,7 @@ public class nexTask {
                                 (operator == '/') ? ((num2 != 0) ? (num1 / num2) : 0) : //
                                         (operator == '%') ? ((num2 != 0) ? (num1 % num2) : 0) :
                                                 0;
-        System.out.println("Дорівнює: " + result);
+        System.out.println("Is equal to: " + result);
 
         scanner.close();
     }
