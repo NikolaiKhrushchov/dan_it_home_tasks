@@ -8,14 +8,14 @@ public class TaskWithRows2 {
         for (String job : jobs) {
             System.out.println("Word: " + job + ",Length: " + job.length());
         }
-        boolean IsFirstLongest = true;
+        boolean isFirstLongest = true;
 
         for (int i = 1; i < jobs.length; i++) {
             if (jobs[0].length() <= jobs[i].length()) {
-                IsFirstLongest = false;
+                isFirstLongest = false;
                 break;
             }
         }
-        System.out.println(IsFirstLongest);
+        System.out.println(isFirstLongest);
     }
 }
