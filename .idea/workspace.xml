@@ -5,14 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aef021c6-2ae7-4707-a55e-710fc57b30a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_1/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_1/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_1/TypesAnimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_2/PassengersAndCargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_2/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_3/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_3/MultimediaFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_3/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_3/Video.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hometasks/src/main/java/org/example/App.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,13 +47,79 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.AnimalAction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultimediaFiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PassengersAndCargo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypesAnimals.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;java__hw__6&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.MultimediaFiles">
+    <configuration name="AnimalAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_6.task_1.AnimalAction" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_6.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultimediaFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_6.task_3.MultimediaFiles" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_6.task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassengersAndCargo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_6.task_2.PassengersAndCargo" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_6.task_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypesAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_6.task_1.TypesAnimals" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_6.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MultimediaFiles" />
+        <item itemvalue="Application.TypesAnimals" />
+        <item itemvalue="Application.PassengersAndCargo" />
+        <item itemvalue="Application.AnimalAction" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="aef021c6-2ae7-4707-a55e-710fc57b30a2" name="Changes" comment="" />
