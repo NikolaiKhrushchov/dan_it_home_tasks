@@ -5,21 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aef021c6-2ae7-4707-a55e-710fc57b30a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_1/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_1/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_1/TypesAnimals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_2/PassengersAndCargo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_2/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_2/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_3/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_3/MultimediaFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_3/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6/task_3/Video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
