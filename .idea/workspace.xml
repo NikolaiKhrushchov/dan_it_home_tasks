@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b31066f-4096-425d-ad68-e77e7dae6a75" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6_2/task_1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6_2/task_1/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6_2/task_1/PerimeterArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6_2/task_1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_6_2/task_1/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/src/test/java/org/example/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "java__hw__6__2"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
