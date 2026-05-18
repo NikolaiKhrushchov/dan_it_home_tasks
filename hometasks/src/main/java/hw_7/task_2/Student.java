@@ -1,6 +1,6 @@
 package hw_7.task_2;
 
-
+import java.util.List;
 
 public class Student {
 
@@ -21,32 +21,16 @@ public class Student {
         return id;
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
-
     public String getName() {
         return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
     }
 
     public int getAge() {
         return age;
     }
 
-    public void setAge(int age) {
-        this.age = age;
-    }
-
     public double getGpa() {
         return gpa;
-    }
-
-    public void setGpa(double gpa) {
-        this.gpa = gpa;
     }
 
     @Override
@@ -57,5 +41,35 @@ public class Student {
                 ", age=" + age +
                 ", gpa=" + gpa +
                 '}';
+    }
+
+    public static void addStudent(List<Student> students, Student student) {
+        students.add(student);
+    }
+
+    public static List<Student> removeStudentById(List<Student> students, int id) {
+        for (int i = 0; i < students.size(); i++) {
+            if (students.get(i).getId() == id) {
+                students.remove(i);
+                break;
+            }
+        }
+        return students;
+    }
+
+    public static  Student findStudentByName(List<Student> students, String name) {
+        for (Student comparison : students) {
+            if (comparison.getName().equals(name)) {
+                return comparison;
+            }
+        }
+        System.out.println("Student with name" + name + "not found");
+        return null;
+    }
+
+    public static void printAllStudents(List<Student> students) {
+        for (Student comparison : students) {
+            System.out.println(comparison);
+        }
     }
 }
