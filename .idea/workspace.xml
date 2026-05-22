@@ -5,23 +5,128 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a79385-61be-4b99-86db-ed7b6fa0ae51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hometasks/src/test/java/hw_9/task_1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/test/java/hw_9/task_1/MachineSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/test/java/hw_9/task_2/SingletonPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/test/java/hw_9/task_2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/test/java/hw_9/task_3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/test/java/hw_9/task_3/AnimalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/test/java/hw_9/task_3/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/test/java/hw_9/task_3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/test/java/hw_9/task_3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/test/java/hw_9/task_3/FactoryPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/test/java/hw_9/task_4/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hometasks/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/src/test/java/org/example/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3E1mnkHwc1Wtkii8sOMTDGTde2Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "java__hw__9"
+    "Application.BuilderPattern.executor": "Run",
+    "Application.FactoryPattern.executor": "Run",
+    "Application.MachineSorting.executor": "Run",
+    "Application.SingletonPattern.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "java__hw__9",
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.BuilderPattern">
+    <configuration name="BuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_9.task_4.BuilderPattern" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_9.task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_9.task_3.FactoryPattern" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_9.task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MachineSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_9.task_1.MachineSorting" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_9.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_9.task_2.SingletonPattern" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_9.task_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BuilderPattern" />
+        <item itemvalue="Application.FactoryPattern" />
+        <item itemvalue="Application.SingletonPattern" />
+        <item itemvalue="Application.MachineSorting" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50a79385-61be-4b99-86db-ed7b6fa0ae51" name="Changes" comment="" />
+      <created>1779354620087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779354620087</updated>
+    </task>
     <servers />
   </component>
 </project>
