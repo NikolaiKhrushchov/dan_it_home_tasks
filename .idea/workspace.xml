@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e46c8523-1a41-4020-94b7-79051d0212e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_1/CanBeClosed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_1/MyBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_1/MyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_1/SessionCloser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_1/SessionManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_2/FilteringPeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/src/main/java/org/example/App.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3EIvQwi4butaSIZRPJCcHt6I2ow" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FilteringPeople.executor": "Run",
+    "Application.SessionManagement.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "java__hw__11",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.FilteringPeople">
+    <configuration name="FilteringPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_11.task_2.FilteringPeople" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_11.task_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SessionManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_11.task_1.SessionManagement" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_11.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FilteringPeople" />
+        <item itemvalue="Application.SessionManagement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e46c8523-1a41-4020-94b7-79051d0212e1" name="Changes" comment="" />
+      <created>1779878887126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779878887126</updated>
+    </task>
+    <servers />
+  </component>
+</project>
