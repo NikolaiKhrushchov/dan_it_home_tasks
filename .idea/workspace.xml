@@ -21,13 +21,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StudentManagement">
+  <component name="RunManager" selected="Application.DequeuePractice">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw_5.Application" />
       <module name="dan_it_home_tasks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hw_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DequeuePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_8.task_3.DequeueCollection.DequeuePractice" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_8.task_3.DequeueCollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DequeuePractice" />
         <item itemvalue="Application.StudentManagement" />
         <item itemvalue="Application.TextEditor" />
         <item itemvalue="Application.TypesAnimals" />
