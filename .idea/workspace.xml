@@ -6,6 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="17833265-8e93-4668-b47b-2104fe2b6108" name="Changes" comment="" />
     <list default="true" id="ce851456-7159-4999-8d4d-6a2ee6a7823a" name="Changes" comment="" />
+    <list default="true" id="e46c8523-1a41-4020-94b7-79051d0212e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_1/CanBeClosed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_1/MyBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_1/MyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_1/SessionCloser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_1/SessionManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_2/FilteringPeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/src/main/java/org/example/App.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +50,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,6 +65,10 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="3EFrs2XSFkS4qCAAIIQwHFwyFeY" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3EIvQwi4butaSIZRPJCcHt6I2ow" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,6 +93,24 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hw_10.task_2.*" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FilteringPeople.executor": "Run",
+    "Application.SessionManagement.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "java__hw__11",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.FilteringPeople">
+    <configuration name="FilteringPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_11.task_2.FilteringPeople" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_11.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,6 +181,12 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hw_10.task_1.*" />
+    <configuration name="SessionManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_11.task_1.SessionManagement" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_11.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,6 +205,8 @@
         <item itemvalue="Application.FinalDateTime" />
         <item itemvalue="Application.Formatting" />
         <item itemvalue="Application.AddingAndTakingAwayTime" />
+        <item itemvalue="Application.FilteringPeople" />
+        <item itemvalue="Application.SessionManagement" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +217,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779785362613</updated>
+      <changelist id="e46c8523-1a41-4020-94b7-79051d0212e1" name="Changes" comment="" />
+      <created>1779878887126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779878887126</updated>
     </task>
     <servers />
   </component>
