@@ -14,6 +14,13 @@
       <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_1/SessionManagement.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_2/FilteringPeople.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_11/task_2/Person.java" afterDir="false" />
+    <list default="true" id="d89ed96b-0fe7-4a77-a163-5e27f4076004" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_12/task_1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_12/task_1/CustomValueErrorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_12/task_1/DivisionByZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_12/task_1/MathematicalCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_12/task_2/ApplicationOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_12/task_2/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dan_it_home_tasks.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -69,6 +76,10 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="3EIvQwi4butaSIZRPJCcHt6I2ow" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3EMHb6bsyUGc4wMFM6hWCWnQImZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -111,6 +122,23 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hw_11.task_2.*" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ApplicationOptional.executor": "Run",
+    "Application.MathematicalCalculator.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "java__hw__12",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ApplicationOptional">
+    <configuration name="ApplicationOptional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_12.task_2.ApplicationOptional" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_12.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,6 +215,12 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hw_11.task_1.*" />
+    <configuration name="MathematicalCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_12.task_1.MathematicalCalculator" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_12.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,6 +241,8 @@
         <item itemvalue="Application.AddingAndTakingAwayTime" />
         <item itemvalue="Application.FilteringPeople" />
         <item itemvalue="Application.SessionManagement" />
+        <item itemvalue="Application.ApplicationOptional" />
+        <item itemvalue="Application.MathematicalCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -222,6 +258,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779878887126</updated>
+      <changelist id="d89ed96b-0fe7-4a77-a163-5e27f4076004" name="Changes" comment="" />
+      <created>1779981587618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779981587618</updated>
     </task>
     <servers />
   </component>
