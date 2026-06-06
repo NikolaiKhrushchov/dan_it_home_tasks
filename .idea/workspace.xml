@@ -4,56 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f10a5a7-0f66-455e-afbe-e128b3ddffff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hometasks/src/main/java/hw_7/task_2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_7/task_2/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hometasks/src/main/java/hw_7/task_2/StudentHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hometasks/src/main/java/hw_7/task_2/StudentManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/src/main/java/hw_7/task_2/StudentManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dan_it_home_tasks/hw_7/task_2/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dan_it_home_tasks/hw_7/task_2/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dan_it_home_tasks/hw_7/task_2/StudentHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dan_it_home_tasks/hw_7/task_2/StudentManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dan_it_home_tasks/hw_7/task_2/StudentManagement.class" afterDir="false" />
-    </list>
+    <list default="true" id="17833265-8e93-4668-b47b-2104fe2b6108" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="3CR0Ewvhb7uKOegTGpuxgpqbODC" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.StudentManagement.executor": "Run",
-    "Application.UniversalWarehouse.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "java__hw__7",
-    "kotlin-language-version-configured": "true"
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UniversalWarehouse">
-    <configuration name="StudentManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw_7.task_2.StudentManagement" />
+  <component name="RunManager" selected="Application.TextEditor">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_5.Application" />
       <module name="dan_it_home_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw_7.task_2.*" />
+          <option name="PATTERN" value="hw_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +35,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniversalWarehouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw_7.task_1.UniversalWarehouse" />
+    <configuration name="TextEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_6_2.task_2.TextEditor" />
       <module name="dan_it_home_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw_7.task_1.*" />
+          <option name="PATTERN" value="hw_6_2.task_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypesAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_6.task_1.TypesAnimals" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_6.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,19 +63,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UniversalWarehouse" />
-        <item itemvalue="Application.StudentManagement" />
+        <item itemvalue="Application.TextEditor" />
+        <item itemvalue="Application.TypesAnimals" />
+        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="8f10a5a7-0f66-455e-afbe-e128b3ddffff" name="Changes" comment="" />
-      <created>1776332967359</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1776332967359</updated>
-    </task>
     <servers />
   </component>
 </project>
