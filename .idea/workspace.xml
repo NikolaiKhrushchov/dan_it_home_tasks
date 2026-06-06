@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="RunManager">
-    <configuration name="TypesAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw_6.task_1.TypesAnimals" />
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_5.Application" />
       <module name="dan_it_home_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw_6.task_1.*" />
+          <option name="PATTERN" value="hw_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -16,7 +16,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TypesAnimals" />
+        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
