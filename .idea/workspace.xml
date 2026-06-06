@@ -11,6 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="java_hw_8" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PropertiesComponent">{
@@ -21,13 +26,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DequeuePractice">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw_5.Application" />
+  <component name="RunManager" selected="Application.SingletonPattern">
+    <configuration name="DequeuePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_8.task_3.DequeueCollection.DequeuePractice" />
       <module name="dan_it_home_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw_5.*" />
+          <option name="PATTERN" value="hw_8.task_3.DequeueCollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -35,12 +40,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DequeuePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw_8.task_3.DequeueCollection.DequeuePractice" />
-      <module name="dan_it_home_tasks" />
+    <configuration name="SingletonPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_9.task_2.SingletonPattern" />
+      <module name="hometasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw_8.task_3.DequeueCollection.*" />
+          <option name="PATTERN" value="hw_9.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonPattern" />
         <item itemvalue="Application.DequeuePractice" />
         <item itemvalue="Application.StudentManagement" />
         <item itemvalue="Application.TextEditor" />
         <item itemvalue="Application.TypesAnimals" />
-        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>

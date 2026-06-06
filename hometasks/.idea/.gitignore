@@ -1,0 +1,7 @@
+uild
+out
+reports
+.idea
+*.iml
+/build
+/out
