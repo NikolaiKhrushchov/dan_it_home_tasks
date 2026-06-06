@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17833265-8e93-4668-b47b-2104fe2b6108" name="Changes" comment="" />
+    <list default="true" id="ce851456-7159-4999-8d4d-6a2ee6a7823a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +34,44 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hw_8.task_3.DequeueCollection.*" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3EFrs2XSFkS4qCAAIIQwHFwyFeY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddingAndTakingAwayTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalDateTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Formatting.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;java__hw__10&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.DateTime">
+    <configuration name="AddingAndTakingAwayTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_10.task_2.AddingAndTakingAwayTime" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_10.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -46,6 +85,12 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hw_9.task_2.*" />
+    <configuration name="DateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_10.task_1.DateTime" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_10.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,6 +104,12 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hw_7.task_2.*" />
+    <configuration name="FinalDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_10.task_2.FinalDateTime" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_10.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,6 +136,12 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hw_6.task_1.*" />
+    <configuration name="Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_10.task_1.Formatting" />
+      <module name="dan_it_home_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_10.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,10 +156,21 @@
         <item itemvalue="Application.StudentManagement" />
         <item itemvalue="Application.TextEditor" />
         <item itemvalue="Application.TypesAnimals" />
+        <item itemvalue="Application.DateTime" />
+        <item itemvalue="Application.FinalDateTime" />
+        <item itemvalue="Application.Formatting" />
+        <item itemvalue="Application.AddingAndTakingAwayTime" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce851456-7159-4999-8d4d-6a2ee6a7823a" name="Changes" comment="" />
+      <created>1779785362613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779785362613</updated>
+    </task>
     <servers />
   </component>
 </project>
